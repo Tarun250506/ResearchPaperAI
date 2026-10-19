@@ -34,7 +34,7 @@ type ChatConversation = {
   updatedAt: number;
 };
 
-const API_URL = "http://127.0.0.1:8000";
+const API_URL = "https://researchpaperai-production.up.railway.app";
 const STORAGE_KEY = "researchpaper-ai-chats-v1";
 const MAX_FILES = 10;
 const MAX_FILE_SIZE = 20 * 1024 * 1024;

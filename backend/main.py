@@ -39,7 +39,8 @@ app.add_middleware(
     CORSMiddleware,
     allow_origins=[
         "http://localhost:3000",
-        "http://127.0.0.1:3000",
+        "http://localhost:3001",
+        "https://research-paper-3gdgmpn5i-vijantarun25-3851.vercel.app",
     ],
     allow_credentials=True,
     allow_methods=["*"],

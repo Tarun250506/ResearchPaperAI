@@ -1,5 +1,5 @@
 # ResearchPaperAI 📚🤖
-[**Live Demo →**](https://research-paper-ai-sigma.vercel.app/)
+[**Live Demo **](https://research-paper-ai-sigma.vercel.app/)
 
 **An AI-powered research assistant that helps users search, understand, compare, and synthesize academic research papers using Retrieval-Augmented Generation (RAG).**
 
